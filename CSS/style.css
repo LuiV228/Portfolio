@@ -1,1 +1,6 @@
-/*MY EXTERNAL FILE/*
+/*MY EXTERNAL FILE*/
+/* body */
+body{
+    text-align: center;
+    background-color: aqua; background-color: blueviolet;
+}
